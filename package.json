@@ -1,0 +1,25 @@
+{
+  "name": "srsm",
+  "version": "0.13.0",
+  "description": "simple react state management",
+  "author": "meiqiyuan",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-hooks",
+    "reducer",
+    "state",
+    "immutable"
+  ],
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meiqiyuan/srsm.git"
+  }
+}
